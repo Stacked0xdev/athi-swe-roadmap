@@ -1,0 +1,1 @@
+✅ GitHub & VS Code setup complete – Day 1 ready to go.
